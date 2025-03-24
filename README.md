@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hiroshi Sato
+# 👋 Hi, I'm Sato Hiroshi
 
 > *Building beyond the conventional to create technology that matters*
 
