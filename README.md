@@ -15,7 +15,7 @@ I'm a technology leader and full stack engineering expert with over 7 years of e
 ## 🛠️ Tech Stack
 
 ```
-🔹 Frontend: React, Vue.js, Angular, TypeScript, Modern JavaScript
+🔹 Frontend: JavaScript, TypeScript, React, Vue.js, Angular
 🔹 Backend: Node.js, Python, Java, GraphQL, RESTful APIs
 🔹 Cloud: AWS, GCP, Azure, Serverless Architecture
 🔹 DevOps: Docker, Kubernetes, CI/CD, Infrastructure as Code
@@ -27,8 +27,8 @@ I'm a technology leader and full stack engineering expert with over 7 years of e
 
 - Engineered a next-generation video analytics platform that revolutionized sports analysis
 - Implemented 3D visualization tools creating unique market differentiators
-- Reduced file upload latency by 25% through cloud optimization
-- Created AI-powered automation reducing manual data labeling time by 40%
+- Reduced file upload latency through cloud optimization
+- Created AI-powered automation reducing manual data labeling time
 - Executed digital transformation initiatives driving significant business growth
 
 ## 🔭 Current Focus
