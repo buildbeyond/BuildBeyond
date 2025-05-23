@@ -35,10 +35,6 @@ I'm a technology leader and full stack engineering expert with over 7 years of e
 
 I'm currently exploring advanced applications of AI in real-time data processing and developing frameworks that make complex technologies more accessible to businesses of all sizes.
 
-## 📫 Let's Connect
-
-- Email: buildbeyond7@gmail.com
-
 ---
 
 *"The best way to predict the future is to create it." - Alan Kay*
