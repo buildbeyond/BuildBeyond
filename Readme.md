@@ -2,7 +2,7 @@
 
 > *Building beyond the conventional to create technology that matters*
 
-I'm a technology leader and full stack engineering expert with over 7 years of experience transforming business requirements into innovative digital solutions. My passion lies in architecting scalable applications that drive growth and deliver measurable business outcomes.
+I'm a technology leader and full stack engineering expert with over 8 years of experience transforming business requirements into innovative digital solutions. My passion lies in architecting scalable applications that drive growth and deliver measurable business outcomes.
 
 ## 🚀 What I Do
 
