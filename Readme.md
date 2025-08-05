@@ -2,7 +2,7 @@
 
 > *Building beyond the conventional to create technology that matters*
 
-I'm a technology leader and full stack engineering expert with over 9 years of experience transforming business requirements into innovative digital solutions. My passion lies in architecting scalable applications that drive growth and deliver measurable business outcomes.
+I'm a technology leader and full stack engineering expert with over 11 years of experience transforming business requirements into innovative digital solutions. My passion lies in architecting scalable applications that drive growth and deliver measurable business outcomes.
 
 ## 🚀 What I Do
 
@@ -20,7 +20,8 @@ I'm a technology leader and full stack engineering expert with over 9 years of e
 🔹 Cloud: AWS, GCP, Azure, Serverless Architecture
 🔹 DevOps: Docker, Kubernetes, CI/CD, Infrastructure as Code
 🔹 Data: SQL/NoSQL Databases, Data Pipelines, Real-time Processing
-🔹 AI/ML: TensorFlow, PyTorch, Computer Vision, Predictive Analytics
+🔹 AI/ML: TensorFlow, PyTorch, Computer Vision, Predictive Analytics, Scikit-learn
+🔹 LLM Development: LangChain, LlamaIndex, Hugging Face, OpenAI API, Vector Databases (Pinecone, Weaviate, Milvus)
 ```
 
 ## 🏆 Professional Highlights
