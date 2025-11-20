@@ -15,7 +15,7 @@ I'm a technology leader and full stack engineering expert with 8 years of experi
 ## 🛠️ Tech Stack
 
 ```
-🔹 Frontend: JavaScript, TypeScript, React, Vue.js, Angular
+🔹 Frontend: JavaScript, TypeScript, React/Next.js, Vue.js, Angular
 🔹 Backend: Node.js, Python, Java, GraphQL, RESTful APIs
 🔹 Cloud: AWS, GCP, Azure, Serverless Architecture
 🔹 DevOps: Docker, Kubernetes, CI/CD, Infrastructure as Code
